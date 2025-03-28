@@ -1,11 +1,9 @@
 #C
-C_ORANGE = (255, 128, 0)
-C_WHITE = (255, 255, 255)
-C_YELLOW = (255, 255, 0)
+C_RED = (255, 0, 0)
+C_BLACK = (0,0,0)
 
 #M
 MENU_OPTION = ('NEW GAME',
-               'SCORE',
                'EXIT')
 
 #W
